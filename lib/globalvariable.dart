@@ -13,7 +13,8 @@ import 'dataprovider/appdata.dart';
 String serverKey =
     'key=AAAA-3klaiQ:APA91bFNnYkw7pPvKPlSkKw6nPmIRDSTb16MibQIy5UbLMFB8Ve1ogHRXvoC27koxx0Je2HtoADsD1MwPA9EDcmK0MYx-vQjQYMLuq86Wk5ErR8w_KpAweEQi90jmnB5xniwXyf-lgbk';
 String mapKey = 'AIzaSyCx0eobeVFyAU7LpvdntMaPbq0PnWaf_mQ';
-String baseUrl = 'https://delivery.talabscollection.com';
+// String baseUrl = 'https://delivery.talabscollection.com';
+String baseUrl = 'https://zebxpress.codester.dev';
 
 final CameraPosition googlePlex = CameraPosition(
   target: LatLng(37.42796133580664, -122.085749655962),
